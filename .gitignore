@@ -1,0 +1,19 @@
+# Build output
+build/
+
+# Never commit roms
+roms/
+*.gb
+*.gbc
+
+# Save states and battery saves
+*.state
+*.sav
+*.rtc
+
+# Editors and Python
+__pycache__/
+*.o
+*.a
+.DS_Store
+compile_commands.json
