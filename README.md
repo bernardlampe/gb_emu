@@ -1,4 +1,4 @@
-# Classic Gameboy implementation"
+# Classic Gameboy implementation
 
 ## Build
 
